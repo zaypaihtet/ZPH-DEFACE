@@ -1,5 +1,5 @@
 # ZPH-DEFACE
-Before you use you wil chang target.txt
+Before you use you wil chang target.txt & index.html
 this tool is for educational purposes only dont missuse it iam not responsible!
 
 Termux:
