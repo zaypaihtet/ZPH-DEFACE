@@ -9,7 +9,7 @@ Termux:
     pkg install git
     git clone https://github.com/zaypaihtet/ZPH-DEFACE/
     cd ZPH-DEFACE
-    python2 zdeface.py
+    python2 main.py
 
     
 Linux:
@@ -20,7 +20,7 @@ Linux:
     apt-get install git
     git clone https://github.com/zaypaihtet/ZPH-DEFACE/
     cd ZPH-DEFACE
-    python zdeface.py
+    python main.py
 
 [image](https://e.top4top.io/p_2036mffhe0.jpg)
 
